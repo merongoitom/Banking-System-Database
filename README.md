@@ -1,1 +1,2 @@
 # Csc675-Project
+Developed a secure and scalable banking system database using MySQL and hosted it on AWS, managing customer accounts, transactions, and loans. Implemented role-based access control (RBAC), fraud detection, and automated reporting for enhanced security and efficiency. Designed custom dashboards with real-time analytics to track financial operations. Additionally, built a Python chatbot on Replit to enable instant data retrieval for customers and staff, improving accessibility and engagement.
